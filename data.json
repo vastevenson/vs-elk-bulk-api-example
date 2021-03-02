@@ -1,0 +1,5 @@
+{"str field": "some string", "int field": 12345, "bool field": True}
+{"str field": "another string", "int field": 42, "bool field": False}
+{"str field": "random string", "int field": 3856452, "bool field": True}
+{"str field": "string value", "int field": 11111, "bool field": False}
+{"str field": "last string", "int field": 54321, "bool field": True}
